@@ -7,4 +7,4 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 
 
 # Description
-This repository contains a python executable file (PRODIGY_DS_02.ipynb) and the dataset used for conducting the visualisations (titanic.csv).
+This repository contains a python executable file (PRODIGY_DS_02.ipynb) and the dataset used for performing EDA and conducting the visualisations (titanic.csv).
